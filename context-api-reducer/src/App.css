@@ -1,0 +1,8 @@
+.App{
+    margin: 10px;
+}
+
+.deleteTodo:hover,
+.editTodo.hover{
+    cursor: pointer;
+}
